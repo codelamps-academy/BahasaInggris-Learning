@@ -1,6 +1,6 @@
 #KOSAKATA
 
-##Kosa Kata Bahasa Inggris Mengenai Waktu
+###Kosa Kata Bahasa Inggris Mengenai Waktu
 
 Now : Sekarang
 Today : Hari ini
